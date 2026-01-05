@@ -22,7 +22,7 @@ A Raspberry Pi based system using camera input for color detection, a heuristic-
 <a href="https://youtu.be/XqYwc7vNhos">
   <img src="media/demo-thumbnail.jpg" alt="Watch Demo">
 </a>
-<p><em>Click the image above to watch the full demo video</em></p>
+<p><em>Click the image above to watch the full demo video on YouTube</em></p>
 
 
 ## Future Work
