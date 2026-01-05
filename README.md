@@ -1,20 +1,23 @@
 # rubiks-cube-solving-robot
 
-One-sentence description of what the system does.
+Autonomous robot that scans a scrambled Rubik's Cube, computes a solution, and executes it mechanically. 
 
 ## Problem
-What challenge you were solving and why it was non-trivial
+Design an end-to-end system capable of quickly and reliably solving a Rubik's Cube, including vision-based state mapping, solution planning, and physical actuation under hardware constraints.
 
 ## Solution
-High-level system design and approach
+A Raspberry Pi based system using camera input for color detection, a heuristic-guided solver to compute soltuion sequence, and stepper motor actuation to perform cube moves.
 
 ## Key Technical Details
-- Algorithms
-- Hardware
-- Software architecture
+- Statistical color classification using sample data and chi-square analysis
+- Heuristic-driven depth-first search solver implemented in Python
+- Stepper motors controled by A4988 drivers for precise and repeatable cube turns
 
 ## Results
-What worked, performance, accuracy, outcomes
+- Accurate cube state mapping across varied environmental and cube conditions
+- Successful autonomous solves from arbitrary scrambles
+- 30 move average solution length
+- 1 minute average solve time 
 
 ## Media
 Images / GIF / Video
