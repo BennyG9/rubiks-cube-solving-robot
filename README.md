@@ -20,7 +20,7 @@ A Raspberry Pi based system using camera input for color detection, a heuristic-
 - 1 minute average solve time 
 
 ## Media
-[![Rubik's Cube Robot Demo](media/Rubik's Cube Robot Photo.jpg)](https://youtu.be/XqYwc7vNhos)
+[![Watch the Demo](media/Rubik's Cube Robot Photo.jpg)](https://youtu.be/XqYwc7vNhos)
 
 
 ## Future Work
