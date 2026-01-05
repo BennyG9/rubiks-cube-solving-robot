@@ -27,4 +27,6 @@ A Raspberry Pi based system using camera input for color detection, a heuristic-
 
 
 ## Future Work
-Optional, short
+- Search algorithm optimization
+- Multiprocessing on Raspberry Pi
+- Improve mechanical accuracy
