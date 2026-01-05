@@ -20,9 +20,6 @@ A Raspberry Pi based system using camera input for color detection, a heuristic-
 - 1 minute average solve time 
 
 ## Media
-[![Watch the Demo](media/demo-thumbnail.jpg)](https://youtu.be/XqYwc7vNhos)
-
-
 <a href="https://youtu.be/XqYwc7vNhos">
   <img src="media/demo-thumbnail.jpg" alt="Watch Demo">
 </a>
