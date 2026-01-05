@@ -22,12 +22,13 @@ A Raspberry Pi based system using camera input for color detection, a heuristic-
 ## Media
 <h3>Rubik’s Cube Solving Robot Demo</h3>
 <iframe width="560" height="315"
-    src="https://www.youtube.com/watch?v=XqYwc7vNhos"
+    src="https://www.youtube.com/embed/XqYwc7vNhos"
     title="Rubik’s Cube Robot Demo"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
 </iframe>
+
 
 ## Future Work
 Optional, short
