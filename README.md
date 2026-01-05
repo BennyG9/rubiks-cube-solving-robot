@@ -1,8 +1,7 @@
 # rubiks-cube-solving-robot
+---
 
 Autonomous robot that scans a scrambled Rubik's Cube, computes a solution, and executes it mechanically. 
-
----
 
 ## Problem
 Design an end-to-end system capable of quickly and reliably solving a Rubik's Cube, including vision-based state mapping, solution planning, and physical actuation under hardware constraints.
