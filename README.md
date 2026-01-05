@@ -26,7 +26,9 @@ A Raspberry Pi based system using camera input for color detection, a heuristic-
 
 ## Notes
 INCLUDED: full script which runs directly on Raspberry Pi, example color data JSON file for classification algorithm, solver algorithm development file where all of the pruning data was generated.
+
 NOT INCLUDED: Purning tables for solving algorithm are not included due to file size constraints. 
+
 A full physical demo of the solver running on a real cube is shown in the video above. 
 
 ## Future Work
