@@ -24,6 +24,9 @@ A Raspberry Pi based system using camera input for color detection, a heuristic-
 </a>
 <p><em>Click the image above to watch the full demo video on YouTube</em></p>
 
+## Notes
+### Included 
+sdfsds
 
 ## Future Work
 - Search algorithm optimization
