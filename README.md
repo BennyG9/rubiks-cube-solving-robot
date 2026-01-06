@@ -1,4 +1,4 @@
-# rubiks-cube-solving-robot
+# Rubik's Cube Solving Robot
 Autonomous robot that scans a scrambled Rubik's Cube, computes a solution, and executes it mechanically. 
 
 ## Problem
